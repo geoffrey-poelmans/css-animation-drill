@@ -1,0 +1,76 @@
+body {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+body #stage {
+  width: 600px;
+  height: 600px;
+}
+
+body #hero {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  border: 1px dashed red ;
+  height: 73px;
+  width: 73px;
+  animation-name: slide;
+  animation-duration: 17s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes slide {
+    0%   {
+      left:20px;
+      top:20px;
+    }
+
+    29.41%  {
+      left:500px;
+      top:20px;
+    }
+
+    41.17%  {
+      left:500px;
+      top:200px;
+      transform: rotate(0deg);
+    }
+
+    44.11%  {
+      left:270px;
+      top:200px;
+      transform: rotate(45deg);
+    }
+
+    55.87%  {
+      left:270px;
+      top:200px;
+      transform: rotate(45deg);
+      border-color: red;
+    }
+
+    70.57% {
+      left:20px;
+      top:204px;
+      height: 73px;
+      width: 73px;
+      border-radius: 0%;
+      border-color: #0900BD;
+      transform: rotate(90deg);
+      background: transparent ;
+    }
+
+    99.98% {
+      left: 440px;
+      top: 440px;
+      height: 150px;
+      width: 150px;
+      transform: rotate(90deg);
+      border-radius: 100%;
+      border-color: transparent;  
+      background: radial-gradient(rgb(251, 218, 97), rgb(247, 107, 28));
+    }
+}
