@@ -1,6 +1,5 @@
 # Page de présentation.
 
---------------------------------------------------------------------------
 
 ###* Qui a fait le projet ?
 Geoffrey Poelmans
