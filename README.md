@@ -23,7 +23,7 @@ Projet terminé.
 Animation en CSS.
 
 ### Comment on l’installe ?  
-[Le projet]()
+[Le projet](https://geoffrey-poelmans.github.io/css-animation-drill/)
 
 ### D’où ça vient ?  
 Exercice en classe.
