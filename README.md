@@ -1,32 +1,32 @@
 # Page de présentation.
 
 
-###* Qui a fait le projet ?
+### Qui a fait le projet ?  
 Geoffrey Poelmans
 
-###* Qu’est-ce que c’est ?
+### Qu’est-ce que c’est ?  
 Réalisation de l'exercice : [Technical drill](https://becodeorg.github.io/end-of-prairie-technical-drill/)
 
-###* Quand a t'il été réalisé ?
+### Quand a t'il été réalisé ?  
 25 mai 2018.
 
-###* Où étais-ce ?
+### Où étais-ce ?  
 BeCode pour la réalisation du stress test.
 
-###* A quoi ça ressemble ?
+### A quoi ça ressemble ?  
 ![Réalisation finale](/images/finale.png)
 
-###* La progression ?
+### La progression ?  
 Projet terminé.
 
-###* Qu’est-ce que ça contient ?
+### Qu’est-ce que ça contient ?  
 Animation en CSS.
 
-###* Comment on l’installe ?
+### Comment on l’installe ?  
 [Le projet]()
 
-###* D’où ça vient ?
+### D’où ça vient ?  
 Exercice en classe.
 
-###* Languages utilisés ?
+### Languages utilisés ?  
 HTML5, CSS3.
