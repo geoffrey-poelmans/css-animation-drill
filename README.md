@@ -2,7 +2,7 @@
 
 
 ### Qui a fait le projet ?  
-Geoffrey Poelmans
+[Geoffrey Poelmans](https://github.com/geoffrey-poelmans)
 
 ### Qu’est-ce que c’est ?  
 Réalisation de l'exercice : [Technical drill](https://becodeorg.github.io/end-of-prairie-technical-drill/)
@@ -11,7 +11,7 @@ Réalisation de l'exercice : [Technical drill](https://becodeorg.github.io/end-o
 25 mai 2018.
 
 ### Où étais-ce ?  
-BeCode pour la réalisation du stress test.
+[BeCode](https://www.becode.org/) pour la réalisation du stress test.
 
 ### A quoi ça ressemble ?  
 ![Réalisation finale](/images/finale.png)
