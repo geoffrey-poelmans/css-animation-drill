@@ -5,12 +5,12 @@ body {
   width: 100%;
 }
 
-body #stage {
+#stage {
   width: 600px;
   height: 600px;
 }
 
-body #hero {
+#hero {
   position: relative;
   top: 20px;
   left: 20px;
