@@ -10,7 +10,7 @@ Réalisation de l'exercice : [Technical drill](https://becodeorg.github.io/end-o
 ### Quand a t'il été réalisé ?  
 25 mai 2018.
 
-### Où étais-ce ?  
+### Où était-ce ?  
 [BeCode](https://www.becode.org/) pour la réalisation du stress test.
 
 ### A quoi ça ressemble ?  
